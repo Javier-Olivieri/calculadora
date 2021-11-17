@@ -37,3 +37,19 @@
 body {
     background-color: lightblue;
 }
+
+.footer_social{
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 40px;
+
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
