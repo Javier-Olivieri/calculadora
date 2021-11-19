@@ -15,7 +15,8 @@ function init() {
     let dos = document.getElementById("dos");
     let tres = document.getElementById("tres");
     let cuatro = document.getElementById("cuatro");
-    let cinco = document.getElementById("cinco");
+    let cinco = document.getElementById("cinco");1
+
     let seis = document.getElementById("seis");
     let siete = document.getElementById("siete");
     let ocho = document.getElementById("ocho");
